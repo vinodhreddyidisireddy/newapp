@@ -1,5 +1,5 @@
-<head>
+<html>
 <body>
 <h1> welcome </h1>
 </body>
-</head>
+</html>
